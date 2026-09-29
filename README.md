@@ -134,3 +134,9 @@ Provides restaurant-level analysis including:
 
 ![Restaurant Details](screenshots/Restaurant%20Details.png)
 
+## Power BI Report File
+
+The complete Power BI report is available in this repository:
+
+**[Food_Delivery_Business_Analysis.pbix](Food_Delivery_Business_Analysis.pbix)**
+
