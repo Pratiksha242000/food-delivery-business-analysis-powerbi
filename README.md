@@ -112,25 +112,25 @@ Provides restaurant-level analysis including:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/Executive%20Overview.png)
 
 ### Customer Analytics
 
-![Customer Analytics](screenshots/customer-analytics.png)
+![Customer Analytics](screenshots/Customer%20Analytics.png)
 
 ### Restaurant Performance
 
-![Restaurant Performance](screenshots/restaurant-performance.png)
+![Restaurant Performance](screenshots/Restaurant%20Performance.png)
 
 ### Delivery & Operations
 
-![Delivery & Operations](screenshots/delivery-operations.png)
+![Delivery & Operations](screenshots/Delivery%20%26%20Operations.png)
 
 ### Advanced Insights
 
-![Advanced Insights](screenshots/advanced-insights.png)
+![Advanced Insights](screenshots/Advanced%20Insights.png)
 
 ### Restaurant Details
 
-![Restaurant Details](screenshots/restaurant-details.png)
+![Restaurant Details](screenshots/Restaurant%20Details.png)
 
